@@ -153,3 +153,5 @@ if __name__ == '__main__':
         print(" ✓ Ready to generate images!\n")
     
     print("="*70 + "\n")
+    
+    app.run(host='0.0.0.0', port=5000, debug=True)
