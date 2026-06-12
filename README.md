@@ -4,55 +4,60 @@
 Generate creative artwork, realistic scenes, digital paintings, and more instantly. ✨
 
 ✨ Features
-✅ Enter custom text prompts for image generation
-✅ Generate AI images in real time
-✅ Customize image resolution
-      - Width control
-      - Height control
-      - Generation steps
 
-✅ Beautiful responsive UI design
-✅ Download generated images instantly
-✅ Loading animation while generating
-✅ Error handling for API/server issues
+✅ Enter custom text prompts for image generation <br>
+✅ Generate AI images in real time <br>
+✅ Customize image resolution <br>
+      <li> Width control <\li> <br>
+      <li> Height control <\li> <br>
+      <li> Generation steps <\li> 
+
+✅ Beautiful responsive UI design <br>
+✅ Download generated images instantly <br>
+✅ Loading animation while generating <br>
+✅ Error handling for API/server issues <br>
 ✅ Local storage saves previous settings
 
 🛠 Tech Stack
-Python 🐍 — Backend server
-Flask — API handling
-JavaScript — Frontend logic
-HTML5 — Structure
-CSS3 — Modern responsive styling
-Hugging Face API 🤖 — AI image generation model
-REST API — Frontend ↔ Backend communication
+
+<li> Python 🐍 - Backend server <\li>
+<li> Flask - API handling </li>
+<li> JavaScript - Frontend logic </li>
+<li> HTML5 - Structure </li>
+<li> CSS3 - Modern responsive styling </li>
+<li> Hugging Face API 🤖 - AI image generation model </li>
+<li> REST API - Frontend ↔ Backend communication </li> <br>
 
 🌐 How It Works
-User enters a creative prompt
-Frontend sends request to Flask backend
-Backend calls AI model API
-AI generates image from text prompt
-Image is returned to frontend
-User previews and downloads image
+
+1.User enters a creative prompt <br>
+2.Frontend sends request to Flask backend <br>
+3.Backend calls AI model API <br>
+4.AI generates image from text prompt <br>
+5.Image is returned to frontend <br>
+6,User previews and downloads image <br>
+
 🚀 How To Run
-Install dependencies
-pip install flask flask-cors requests python-dotenv
-Start backend
-python app.py
-Open browser
+Install dependencies <br>
+pip install flask flask-cors requests python-dotenv <br>
+Start backend <br>
+python app.py <br>
+Open browser <br>
 http://localhost:5000
+
+<br>
 📌 Future Improvements
 
-✅ Prompt history
-✅ Multiple image generation
-✅ Dark mode UI
-✅ AI style selection
-✅ Negative prompt support
-✅ User authentication
+✅ Prompt history <br>
+✅ Multiple image generation <br>
+✅ Dark mode UI <br>
+✅ AI style selection <br>
+✅ Negative prompt support <br>
+✅ User authentication <br>
 
 👨‍💻 Author
 Made with ❤️ by Jitendra Kumar Singh
-🔗 **LinkedIn**  
-(https://www.linkedin.com/in/jitendra-kumar-singh-a1b115323)
-
-📧 **Email**  
-(mailto:jitendrakumar808410@gmail.com)
+<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/jitendra-kumar-singh-a1b115323)
+<br>
+📧 [Email](mailto:jitendrakumar808410@gmail.com)
