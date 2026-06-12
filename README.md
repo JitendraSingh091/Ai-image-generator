@@ -52,7 +52,7 @@ http://localhost:5000
 👨‍💻 Author
 Made with ❤️ by Jitendra Kumar Singh
 🔗 **LinkedIn**  
-[https://www.linkedin.com/in/jitendra-kumar-singh-a1b115323](https://www.linkedin.com/in/jitendra-kumar-singh-a1b115323)
+(https://www.linkedin.com/in/jitendra-kumar-singh-a1b115323)
 
 📧 **Email**  
-[jitendrakumar808410@gmail.com](mailto:jitendrakumar808410@gmail.com)
+(mailto:jitendrakumar808410@gmail.com)
