@@ -8,9 +8,9 @@ Generate creative artwork, realistic scenes, digital paintings, and more instant
 ✅ Enter custom text prompts for image generation <br>
 ✅ Generate AI images in real time <br>
 ✅ Customize image resolution <br>
-      <li> Width control <\li> <br>
-      <li> Height control <\li> <br>
-      <li> Generation steps <\li> 
+      <li> Width control 
+      <li> Height control 
+      <li> Generation steps 
 
 ✅ Beautiful responsive UI design <br>
 ✅ Download generated images instantly <br>
@@ -20,13 +20,13 @@ Generate creative artwork, realistic scenes, digital paintings, and more instant
 
 🛠 Tech Stack
 
-<li> Python 🐍 - Backend server <\li>
-<li> Flask - API handling </li>
-<li> JavaScript - Frontend logic </li>
-<li> HTML5 - Structure </li>
-<li> CSS3 - Modern responsive styling </li>
-<li> Hugging Face API 🤖 - AI image generation model </li>
-<li> REST API - Frontend ↔ Backend communication </li> <br>
+<li> Python 🐍 - Backend server 
+<li> Flask - API handling 
+<li> JavaScript - Frontend logic 
+<li> HTML5 - Structure 
+<li> CSS3 - Modern responsive styling 
+<li> Hugging Face API 🤖 - AI image generation model 
+<li> REST API - Frontend ↔ Backend communication  <br>
 
 🌐 How It Works
 
